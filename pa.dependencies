@@ -55,7 +55,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "AOSPA/android_hardware_qcom_power",
+        "repository":   "aospax/android_hardware_qcom_power",
         "target_path":  "hardware/qcom/power",
         "revision":     "kitkat"
     },
